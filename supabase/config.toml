@@ -1,0 +1,4 @@
+project_id = "memora"
+
+[functions.generate-cards]
+verify_jwt = true
